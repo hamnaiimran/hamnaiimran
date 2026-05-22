@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ HAMNA IMRAN ⚡
+#  HAMNA IMRAN 
 
 ### AI & FinTech Developer | Co-Founder @ NeuroCrypt | Creative Technologist
 
@@ -18,7 +18,7 @@
 
 ---
 
-# 🧠 ABOUT ME
+# ABOUT ME
 
 ```yaml
 Name: Hamna Imran
@@ -43,11 +43,11 @@ Current Goal:
 
 ---
 
-# 🚀 CURRENTLY BUILDING — NEUROCRYPT
+# CURRENTLY BUILDING — NEUROCRYPT
 
 <div align="center">
 
-## 🧠 NeuroCrypt
+##  NeuroCrypt
 ### *AI-Powered Financial Intelligence Platform*
 
 </div>
@@ -56,20 +56,20 @@ NeuroCrypt is an AI-driven fintech platform focused on transforming how users un
 
 The platform integrates:
 
-- 📈 Financial Forecasting Models
-- 🧠 Behavioral Finance Principles
-- 💬 Market Sentiment Analysis
-- 🤖 AI-Based Decision Support Systems
-- 📰 Intelligent Financial News Analysis
-- 🎮 Gamified Financial Learning
-- 🔍 Investor Psychology Insights
+- Financial Forecasting Models
+- Behavioral Finance Principles
+- Market Sentiment Analysis
+- AI-Based Decision Support Systems
+- Intelligent Financial News Analysis
+- Gamified Financial Learning
+- Investor Psychology Insights
 
 ### ⚡ Vision
 To create a smarter financial ecosystem where AI, human psychology, and market intelligence work together to help users make informed investment decisions.
 
 ---
 
-# 🛠️ TECH STACK
+# TECH STACK
 
 <div align="center">
 
@@ -87,7 +87,7 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# GITHUB ANALYTICS
 
 <div align="center">
 
@@ -101,9 +101,9 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-# 💼 EXPERIENCE
+# EXPERIENCE
 
-## 🚀 Co-Founder — NeuroCrypt
+## Co-Founder — NeuroCrypt
 `June 2025 – Present`
 
 - Developing an AI-driven fintech platform focused on crypto and stock market investment insights
@@ -113,7 +113,7 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-## 🌐 FinTech Intern — Pakistan FinTech Network
+## FinTech Intern — Pakistan FinTech Network
 `July 2026 – Dec 2026`
 
 - Worked on fintech innovation and startup-oriented workflows
@@ -122,7 +122,7 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-## 🎤 Brand Ambassador — ROX by Jazz
+## Brand Ambassador — ROX by Jazz
 `Dec 2025 – Present`
 
 - Led campus engagement and promotional campaigns
@@ -131,7 +131,7 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-## 🎓 Teaching Assistant — FAST NUCES Islamabad
+## Teaching Assistant — FAST NUCES Islamabad
 `March 2024 – March 2025`
 
 - Assisted faculty in communication-focused courses
@@ -140,7 +140,7 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-## 🧪 Member — Cradle Lab
+## Member — Cradle Lab
 `April 2025 – Present`
 
 - Participating in startup-focused and innovation-driven initiatives
@@ -148,7 +148,7 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-## 🤖 Brand Ambassador — VYRO, NSTP NUST
+## Brand Ambassador — VYRO, NSTP NUST
 `March 2024 – March 2025`
 
 - Coordinated a Generative AI Hackathon with 30+ participants
@@ -157,55 +157,55 @@ To create a smarter financial ecosystem where AI, human psychology, and market i
 
 ---
 
-# 🎯 LEADERSHIP & CAMPUS IMPACT
+# LEADERSHIP & CAMPUS IMPACT
 
-## 🏛️ President — Takhleeq Society
+## President — Takhleeq Society
 - Led collaborative campus events and branding initiatives
 - Managed teams and student engagement activities
 
-## 🎙️ Director Moderations — FAST Parliamentary Debate Championship
+## Director Moderations — FAST Parliamentary Debate Championship
 - Coordinated moderation and communication operations
 - Assisted in large-scale event planning and execution
 
-## 🎨 Director Creatives — FAST Adventure Society
+## Director Creatives — FAST Adventure Society
 - Managed creative direction and branding activities
 - Designed engagement-focused visual content
 
-## 🎤 Director Media — FAST Debating Society
+## Director Media — FAST Debating Society
 - Led media strategy and digital communication
 - Covered event branding and promotional execution
 
 ---
 
-# 🔬 RESEARCH & INTERESTS
+# RESEARCH & INTERESTS
 
 I’m deeply interested in the intersection of:
 
-- 🧠 AI + Human Psychology
-- 📊 Financial Market Behavior
-- 💬 Sentiment Analysis
-- 📈 Predictive Analytics
-- 🌍 Economic Uncertainty
-- ⛓️ Blockchain & Decentralized Systems
+- AI + Human Psychology
+- Financial Market Behavior
+- Sentiment Analysis
+- Predictive Analytics
+- Economic Uncertainty
+- Blockchain & Decentralized Systems
 
 My current research focus explores how machine learning and behavioral finance can improve investment decision-making systems.
 
 ---
 
-# 📚 EDUCATION
+# EDUCATION
 
-## 🎓 FAST-NUCES Islamabad
+## FAST-NUCES Islamabad
 **BS Financial Technology**  
 `2022 – 2026`
 
 ---
 
-## 🏫 LUMS Lahore
+## LUMS Lahore
 **Digitization and FinTech Course**
 
 ---
 
-# 🎮 INTERACTIVE TERMINAL
+# INTERACTIVE TERMINAL
 
 <div align="center">
 
@@ -238,7 +238,7 @@ Welcome to the next generation of fintech.
 
 ---
 
-# 🌌 CURRENTLY LEARNING
+# CURRENTLY LEARNING
 
 ```python
 class HamnaImran:
@@ -259,7 +259,7 @@ class HamnaImran:
 
 ---
 
-# ⚡ FUN FACT
+# FUN FACT
 
 <div align="center">
 
@@ -277,7 +277,7 @@ while(alive) {
 
 ---
 
-# 🤝 CONNECT WITH ME
+# CONNECT WITH ME
 
 <div align="center">
 
@@ -299,7 +299,7 @@ while(alive) {
 
 <div align="center">
 
-## ⚡ PHILOSOPHY
+## PHILOSOPHY
 
 > *"Technology becomes powerful when intelligence, creativity, and human behavior intersect."*
 
